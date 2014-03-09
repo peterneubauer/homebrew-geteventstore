@@ -3,7 +3,7 @@ require 'formula'
 class Geteventstore < Formula
   url 'http://download.geteventstore.com/binaries/eventstore-mono-2.0.1.tgz'
   homepage 'http://geteventstore.com/'
-  sha1 'e356280ae45beaac6476824d551b094cd12e03b9'
+  sha1 '99744c57fb9930df96424e9ef7c73490e60ab9fb'
   version '2.0.1'
 
   #def install
