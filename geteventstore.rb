@@ -1,3 +1,5 @@
+require 'formula'
+
 class Eventstore < Formula
   url 'http://download.geteventstore.com/binaries/eventstore-mono-2.0.1.tgz'
   homepage 'http://geteventstore.com/'
